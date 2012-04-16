@@ -1,3 +1,6 @@
 *.[oa]
 *.beam
 .*.swp
+/.eunit
+/ebin
+*~
